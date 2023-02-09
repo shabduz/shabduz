@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shahad 
-- 👀 I’m interested in Data Science & Machine learning
+- 👀 I’m interested in Data Science & Machine learning & Deep learning & Big data aspects 
 - 🌱 I’m currently learning some of ML algorithm 
- 
+- I'm familiar with big data tools like: Hadoop, Spark, HBase, and Casandra
